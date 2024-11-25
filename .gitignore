@@ -39,3 +39,4 @@ keys.json
 
 # typescript
 .tsbuildinfo
+tmp
