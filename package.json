@@ -13,6 +13,7 @@
         "package": "plasmo package"
     },
     "dependencies": {
+        "lucide-react": "^0.460.0",
         "plasmo": "^0.89.4",
         "react": "18.2.0",
         "react-dom": "18.2.0",
@@ -32,7 +33,8 @@
             "https://*/*"
         ],
         "permissions": [
-            "scripting"
+            "scripting",
+            "tabs"
         ],
         "web_accessible_resources": [
             {
